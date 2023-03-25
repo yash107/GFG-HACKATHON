@@ -1,0 +1,15 @@
+
+
+   
+
+
+
+
+
+    ,
+    {
+        "tag":"degree_diploma",
+        "patterns":["degree to diploma","how to convert from degree to diploma"],
+        "responses":["refer to clause 2.8","After re-open, the application should be resubmitted. Otherwise application will be treated as “Application Not Submitted”."],
+        "context":[""]
+    }
